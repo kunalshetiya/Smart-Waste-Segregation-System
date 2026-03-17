@@ -22,6 +22,3 @@ An AI-powered system that automatically classifies and segregates waste into **o
 * Improves recycling efficiency
 * Promotes clean and sustainable environment
 
-## 👥 Team
-
-**Segmetron**
